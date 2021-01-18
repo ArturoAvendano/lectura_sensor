@@ -1,0 +1,1 @@
+string salida_sensor
